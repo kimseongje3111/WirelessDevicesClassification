@@ -1,5 +1,3 @@
-# 기계학습을 이용한 무선 디바이스 식별 및 분류 시스템 연구  
-
 <style>
 	img {
 		margin-left:10px;
@@ -9,4 +7,6 @@
 	}
 </style>
 
-<img src='img/poster.tiff' alt=""/>
+# 기계학습을 이용한 무선 디바이스 식별 및 분류 시스템 연구
+
+<img src='/img/poster.tiff' alt=""/>
